@@ -8,7 +8,7 @@ Master's in Computer Science (MS CS) candidate at Khoury College of Computer Sci
 <li>Teaching Assistant, engaging with students in the Information Retrieval (IS 4200) and (CS 6200) courses to foster understanding and growth 🎓📝</li>
 <li>Former Senior Software Engineer at <a href="https://mytradezone.com">MyTradeZone</a>, delivering impactful software solutions ✨</li>
 <li>Eager to expand skills, leverage experiences, and learn from industry professionals 🌱</li>
-<li>Actively seeking SDE internship/co-op opportunities for Summer/Fall 2024 🌤️</li>
+<li>Actively seeking full time SDE (Backend, Frontend, Full-stack) opportunities from Jan 2026 🌤️</li>
 <li>Let's connect: <a href="https://www.linkedin.com/in/darshan-shah15/"> https://www.linkedin.com/in/darshan-shah15/</a>🤝</li>
 <li>Email: <a href="mailto:sdarshan1510@gmail.com">sdarshan1510@gmail.com</a> ✉️</li>
 <li>Feel free to reach out if you have suitable roles or insights to share 📬🤝</li>
@@ -27,5 +27,6 @@ Master's in Computer Science (MS CS) candidate at Khoury College of Computer Sci
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan1510&show_icons=true&locale=en&layout=compact" alt="darshan1510" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan1510&show_icons=true&locale=en" alt="darshan1510" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshan1510&" alt="darshan1510" /></p>
