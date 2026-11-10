@@ -24,7 +24,7 @@
 
 | Project | What it is | Tech |
 |---|---|---|
-| [pdf-compressor](https://github.com/Darshan1510/pdf-compressor) | Desktop app with 13 local PDF tools: compress, merge, split, organize, convert, watermark, protect | Python, FastAPI, pikepdf, pywebview |
+| [DocKit](https://github.com/Darshan1510/DocKit) | Local desktop app with PDF, image and scan tools: compress, merge, split, convert, scan photos to clean PDFs | Python, FastAPI, OpenCV, pikepdf, pywebview |
 | [carpoolnu](https://github.com/Darshan1510/carpoolnu) | Carpooling app for the Northeastern University community | Swift, iOS |
 | [ai-coding-agent](https://github.com/Darshan1510/ai-coding-agent) | AI coding assistant that analyzes code, fixes bugs and writes features | Python, Google Gemini |
 | [pdf-converse](https://github.com/Darshan1510/pdf-converse) | Chat with PDF documents using embeddings and LLMs | JavaScript, RAG, LLMs |
