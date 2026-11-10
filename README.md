@@ -46,9 +46,24 @@
 
 <h3>📊 GitHub stats</h3>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=darshan1510&show_icons=true&locale=en" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan1510&layout=compact&locale=en" alt="Top languages" height="165" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darshan1510&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darshan1510&theme=default" alt="GitHub stats" height="180" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshan1510&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshan1510&theme=default" alt="Top languages by repo" height="180" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshan1510&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshan1510&theme=default" alt="Top languages by commit" height="180" />
+</picture>
 </p>
-<p><img src="https://streak-stats.demolab.com/?user=darshan1510" alt="GitHub streak" /></p>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=darshan1510&theme=github-dark-blue" />
+  <img src="https://streak-stats.demolab.com/?user=darshan1510" alt="GitHub streak" />
+</picture>
+</p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=darshan1510&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
