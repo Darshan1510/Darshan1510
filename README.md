@@ -31,10 +31,17 @@
 | [clima-smart](https://github.com/Darshan1510/clima-smart) | End-to-end MLOps pipeline on GCP for weather prediction and daily recommendations | Python, Airflow, MLflow, GCP |
 
 <h3>🧰 Languages and tools</h3>
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,swift,spring,fastapi,django,nodejs,react,postgres,mysql,mongodb,redis,kafka,elasticsearch&perline=16" alt="Languages and frameworks" />
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,git,githubactions,jenkins,rabbitmq,postman,html,css,tailwind,bootstrap,figma&perline=16" alt="Cloud and tools" />
+<p><b>Languages</b><br/>
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,swift,cpp,cs,php,go,bash,html,css&perline=16" alt="Languages" />
+</p>
+<p><b>Frameworks and libraries</b><br/>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,django,flask,nodejs,express,react,nextjs,angular,vue,redux,dotnet,tailwind,bootstrap&perline=16" alt="Frameworks and libraries" />
+</p>
+<p><b>Databases and messaging</b><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,kafka,elasticsearch,rabbitmq&perline=16" alt="Databases and messaging" />
+</p>
+<p><b>Cloud, DevOps and tools</b><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,firebase,heroku,linux,git,githubactions,jenkins,postman,figma,selenium,pytorch,tensorflow&perline=16" alt="Cloud, DevOps and tools" />
 </p>
 
 <h3>📊 GitHub stats</h3>
