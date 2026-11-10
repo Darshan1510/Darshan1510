@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Darshan</h2>
 
-<p>Software Engineer at <b>HubSpot</b> in Boston. I build backend and full-stack systems, and in my spare time I make small tools that solve everyday problems.</p>
+<p>Software Engineer at <b>HubSpot</b> in Cambridge, MA. I build backend and full-stack systems, and in my spare time I make small tools that solve everyday problems.</p>
 
 <ul>
 <li>💼 Currently a <b>Software Engineer at <a href="https://www.hubspot.com/">HubSpot</a></b></li>
